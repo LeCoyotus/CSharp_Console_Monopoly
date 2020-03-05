@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.exe
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.deps.json
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\bin\Debug\netcoreapp3.1\Monopoly.pdb
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.dll
+C:\Users\Utilisateur\source\repos\Monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.pdb
